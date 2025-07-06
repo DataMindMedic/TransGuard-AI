@@ -84,7 +84,7 @@ F1-score
 ROC AUC
 
 ##📷 Screenshots
-(Add screenshots of your dashboard UI for better readability on GitHub!)
+
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to submit issues for:
@@ -96,17 +96,22 @@ Documentation improvements
 This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 🙏 Acknowledgements
-Kaggle Credit Card Fraud Detection Dataset
-Streamlit team
-scikit-learn contributors
-Academic supervisors and reviewers
+
+1. Kaggle Credit Card Fraud Detection Dataset
+
+2. Streamlit team
+
+3. scikit-learn contributors
+
+4. Academic supervisors and reviewers
 
 ✨ Author
 Micheal Omotosho
 Email: datamindmedic@gmail.com
 GitHub: https://github.com/DataMindMedic
 
-⭐️ Citation (for Academic Report)
+
+##⭐️ Citation (for Academic Report)
 If citing this project in your academic work:
 
 Omotosho, M. (2025). TransGuard AI: Real-Time Fraud Detection using Machine Learning Models. 
